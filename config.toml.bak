@@ -1,0 +1,6 @@
+baseURL = "https://leftovers.xyz/"
+languageCode = "en-us"
+title = "LeftOvers"
+theme = "paper"
+
+contentDir = "content"
