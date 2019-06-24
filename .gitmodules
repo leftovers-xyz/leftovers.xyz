@@ -1,7 +1,7 @@
-[submodule "themes/paper"]
-	path = themes/paper
-	url = https://github.com/nanxiaobei/hugo-paper
 [submodule "public"]
 	path = public
 	url = https://github.com/leftovers-xyz/leftovers-xyz.github.io.git
 	branch = master
+[submodule "themes/hello-friend-ng"]
+	path = themes/hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng

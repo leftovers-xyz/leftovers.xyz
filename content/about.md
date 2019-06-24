@@ -1,12 +1,13 @@
-+++
-title = "About"
-date = "2019-03-06"
-aliases = ["about-us","about-hugo","contact"]
-[ author ]
-  name = "juhnu"
-+++
+---
+title: "LeftOvers"
+date: 2019-06-23T23:36:33+03:00
+draft: false
+---
 
-![Birdie](https://cultofthepartyparrot.com/parrots/hd/parrot.gif)
+LeftOvers is a hacking team from Finland. The team members consist of old colleagues who still want to do hacking with each other, even if our careers have gone separate ways.
 
-Kakkaa t.Jake
-![Birdie](https://cultofthepartyparrot.com/parrots/hd/parrot.gif)
+## Achievements
+### 2019
+- Ordered stickers
+- Bought leftovers.xyz domain
+- Came third in Sanoma Pro Hackday
