@@ -11,3 +11,8 @@ LeftOvers is a hacking team from Finland. The team members consist of old collea
 - Ordered stickers
 - Bought leftovers.xyz domain
 - Came third in Sanoma Pro Hackday
+- Participated in LähiTapiola HackDay
+
+### 2020
+- 3rd place in Nokia HackAthon 2020
+- Updated (somewhat) updated website
