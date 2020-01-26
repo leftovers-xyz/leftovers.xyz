@@ -41,6 +41,12 @@ https://github.com/pwntester/ysoserial.net
 ### PHP
 https://github.com/ambionics/phpggc
 
+### Python
+http://xhyumiracle.com/python-pickle-injection/
+
+### Ruby
+https://www.elttam.com//blog/ruby-deserialization/
+
 ### JavaScript
 
 #### NodeJS
