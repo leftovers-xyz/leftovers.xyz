@@ -27,7 +27,7 @@ We have participated in following events as a team:
 - Nokia Hackathon 2020
 
 # Hacking team
-This blog post is mostly about non-commercial hacking teams, that don't do it as a full-time job. Many companies of course provide hacking services for their customers and have dedicated teams for that, but I'd 
+This blog post is mostly about non-commercial hacking teams, that don't do it as a full-time job. Many companies of course provide hacking services for their customers and have dedicated teams for that, but they are not what we are about talking in this blogpost.
 
 Other notable Finnish hacking teams
 
