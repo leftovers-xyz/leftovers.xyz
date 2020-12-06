@@ -2,7 +2,7 @@
 title: "Creating a hacking team"
 date: 2020-01-26T13:31:43+02:00
 draft: true
-toc: true
+toc: false
 images:
 tags:
   - leftovers
@@ -41,6 +41,8 @@ Like I said before, everyone at LeftOvers used to work together at some point. L
 
 If you are currently in the looks for a team, a logical place would be to look around at your own workplace for someone who is looking for a team as well. I've seen multiple student groups that have formed a hacking team for fun. You just need to keep your eyes and ears open. Sometimes you have to open your mouth to form the team.
 
+If you are not ready to gather the gang, I have to give a special mention for [Pystyy Vetää](https://pystyyvetaa.fi/), which welcomes everyone to their ranks and are quite active. There are many veterans willing to help you get started with hacking.
+
 ## Coming up with a name
 LeftOvers is a nice name. In some events, people have thought that we are people, who couldn't find a team, but wanted to participate anyways ~~(which is somewhat true for us)~~. It was not the first name we came up with, but first real public one. One other idea was _H*ckers_, but that didn't catch wind.
 
@@ -56,6 +58,8 @@ In Finland, there are a few companies who organize hacking events, in which you 
 
 Keep in mind, that in Finland there are two types of hackathons. The first one is the events, where you hack stuff (like the small list I just mentioned). The second is where you innovate and maybe might deliver a proof-of-concept about your innovation idea, common in coding hackathons.
 
+There are also multiple CTFs in Finland. There are some companies who have hosted their own in the past, but I can't name any upcoming CTF events for 2020. There is one every year at [Disobey](https://disobey.fi/) which is up for participation to anyone on-site.
+
 ## Having fun
 The reason why some might create a team is to have fun. That is what happened with LeftOvers. After creating the team, we've had hacking themed summer day event and a christmas party. Apart from those, all the hackdays we've participated have been a lot of fun. 
 
@@ -63,3 +67,5 @@ To further improve your team spirit, it is recommended to get some swag for your
 
 ## Getting paid
 At some point all the fun that you have might turn profitable. At the events, you might get loads of money out of the vulnerabilities you find. At that point how you divide the money can be an awkward discussion. You might be a team that is looking to make big bucks and then the money can be an issue. In the heat of the moment, it is hard to keep track that who found what vulnerability. At all three events that LeftOvers has participated, we've divided money equal to the event participants. If the payout is small, some of us have opted to put the money in to christmas party funds.
+
+Since we live in a society and are not animals, you have to pay taxes for the bounty money. Usually the organizers have to worry about this, you just deliver your tax card (remember, this is Finland). 
