@@ -1,30 +1,40 @@
-baseURL = "https://leftovers.xyz/"
+baseurl      = "https://leftovers.xyz/"
+title        = "LeftOvers"
 languageCode = "en-us"
-title = "LeftOvers"
-theme = "hello-friend-ng"
+theme        = "hello-friend-ng"
+paginate     = 10
 
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  homeSubtitle = "A hacking team from Finland"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = false
 
   # Metadata mostly used in document's head
-  description = "Homepage and blog by LeftOvers"
-  keywords = "homepage, blog, science, informatics, development, programming"
+  description = "A hacking team from Finland"
+  keywords = "homepage, blog, hacking"
   images = [""]
 
-  # Directory name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
-  # Default theme "light" or "dark"
-  defaultTheme = "dark"
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
 
 [languages]
   [languages.en]
     title = "LeftOvers"
     subtitle = "A hacking team from Finland"
-    keywords = ""
-    copyright = ""
+    keywords = "hacking"
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
@@ -35,19 +45,7 @@ theme = "hello-friend-ng"
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
-	# You can create a language based menu
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "posts"
-        name = "Posts"
-        url = "/posts"
-
-# And you can even create generic menu
-[menu]
+  # And you can even create generic menu
   [[menu.main]]
     identifier = "about"
     name       = "About"
@@ -56,4 +54,3 @@ theme = "hello-friend-ng"
     identifier = "posts"
     name       = "Posts"
     url        = "/posts/"
-
